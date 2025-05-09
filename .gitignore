@@ -6,6 +6,8 @@
 .env.test
 .env.production
 .env.*
+my_dir/
+.vscode/
 
 # Python virtual environment
 venv/
