@@ -19,5 +19,5 @@ Data:
  * Data/ekman_test_with_predictions     : shows how the LLM with no grounding is guessing many emotions
 
 Other:
- */src/LLM.py -             : our instructor used to recieve structured outputs from the LLM's
+ * /src/LLM.py -             : our instructor used to recieve structured outputs from the LLM's
  * ekman_mapping.json				: containings the mapping of GoEmotions taxonomy to Ekmans taxonomy
